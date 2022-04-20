@@ -1,0 +1,39 @@
+/* styles.css */
+.main{
+  text-align: center;
+  font-size: 32px;
+  background-color: lightblue;
+}
+
+#main{
+  width: 300px;
+  margin: 0 auto;
+  font-size: 20px;
+  border: 5px solid black;
+  padding: 32px;
+}
+
+.soy{
+  background-color: bisque;
+  
+}
+
+.pasta{
+  background-color: lightblue;
+  color: black;
+}
+
+.sanduche{
+  background-color: lightpink;
+}
+
+button {
+  color: aqua;
+  background-color: lightcoral;
+  
+}
+
+img{
+  border: 2px solid black;
+  
+}
